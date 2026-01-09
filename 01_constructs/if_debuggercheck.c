@@ -27,3 +27,6 @@ int WINAPI WinMain(
             MB_OK | MB_ICONEXCLAMATION
         );
     }
+
+return 0;
+}
